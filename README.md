@@ -88,10 +88,10 @@ fraud-risk-project/
 After running the pipeline on the full dataset, fill in your actual numbers
 here (these are what you'll cite on your resume):
 
-- **AUC**: ___
-- **Precision @ chosen threshold**: ___
-- **Recall @ chosen threshold**: ___
-- **False positive rate**: ___
+- **AUC**: 0.9112
+- **Precision @ chosen threshold**: 0.792
+- **Recall @ chosen threshold**: 0.329
+- **False positive rate**: 350
 - **API p95 latency**: ___ ms (from `src/api.py` benchmark)
 
 ## Notes
