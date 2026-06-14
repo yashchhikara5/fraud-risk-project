@@ -85,9 +85,6 @@ fraud-risk-project/
 
 ## Results
 
-After running the pipeline on the full dataset, fill in your actual numbers
-here (these are what you'll cite on your resume):
-
 - **AUC**: 0.9112
 - **Precision @ chosen threshold**: 0.792
 - **Recall @ chosen threshold**: 0.329
